@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "name": "learning_apis",
+  "description": "learning how to use APIs via a small project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHappyCoder3299/learning_APIs.git"
+  },
+  "author": "Anwit Mondal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheHappyCoder3299/learning_APIs/issues"
+  },
+  "homepage": "https://github.com/TheHappyCoder3299/learning_APIs#readme"
+}
